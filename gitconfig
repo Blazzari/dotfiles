@@ -61,4 +61,6 @@
   defaultBranch = master
 [user]
 	email = baptiste.lazzari@outlook.fr
-	name = Lazzari
+	name = Baptiste Lazzari
+[safe]
+	directory = /home/baptistelazzari/code/Blazzari/dotfiles
